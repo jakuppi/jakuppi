@@ -1,7 +1,6 @@
-#
+<!-- #
 I’m a Web Developer and IT Specialist focused on managing websites, providing technical support, and keeping systems running smoothly. With a background in Information Technology, I enjoy building clean digital solutions and helping people with their tech needs.
-
-
+-->
 #
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jakupjakupi) 
 
